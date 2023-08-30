@@ -79,7 +79,7 @@ To effectively leverage parallelism and ensure thread safety in your .NET applic
 Explore the code samples and resources in this repository to gain a hands-on understanding of parallelism and thread safety. The provided examples cover various scenarios to help you apply these concepts effectively in your .NET projects.
 
 - [Lock Statment](LockMechanism/LockStatement.md)
-- [Mutex]
+- [Mutex](MutexMechanism/Mutex.md)
 
 Thank you for choosing ThreadSafeFlow-NET as your guide to mastering parallelism and thread safety in .NET development!
 
