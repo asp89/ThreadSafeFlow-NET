@@ -80,6 +80,7 @@ Explore the code samples and resources in this repository to gain a hands-on und
 
 - [Lock Statment](LockMechanism/LockStatement.md)
 - [Mutex](MutexMechanism/Mutex.md)
+- [Semaphore](SemaphoreMechanism/Semaphore.md)
 
-Thank you for choosing ThreadSafeFlow-NET as your guide to mastering parallelism and thread safety in .NET development!
+Thank you for choosing ThreadSafeFlow-NET as your guide to learn about parallelism and thread safety in .NET development!
 
